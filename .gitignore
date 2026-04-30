@@ -1,0 +1,13 @@
+# Local payroll source documents
+*.ods
+*.pdf
+*.pptx
+documents/*
+!documents/comparaison-taux.md
+
+# Generated / local outputs
+exports/
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
